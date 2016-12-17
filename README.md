@@ -26,3 +26,7 @@ DROK buck converter
 This allows for tunable voltage and current stepdown from, say a 12V/6A
 wall source
 (https://www.amazon.com/gp/product/B00VA2K0MK/ref=oh\_aui\_detailpage\_o05\_s00?ie=UTF8&psc=1). 
+
+## Wire Diagram
+
+![wire\_diagram](wire_diagram.png)
