@@ -9,7 +9,7 @@ microcontroller, so other components (such as temperature/humidity sensors)
 may be used as well, though larger sketches may not fit into the ATtiny45's
 limited 4kb storage.
 
-## Hardware Required.
+## Hardware Required
 
 You will need specific files to communicate with the ATtiny
 microcontrollers (see https://github.com/Wulfrabbit/tinylight).
